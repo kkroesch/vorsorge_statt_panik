@@ -1,4 +1,4 @@
-# Warum Vorsorge nichts mit Panik zu tun hat
+# Kapitel 1: Warum Vorsorge nichts mit Panik zu tun hat
 
 ## Einleitung
 
@@ -44,7 +44,7 @@ Vorsorge bedeutet, die eigene Verletzlichkeit ernst zu nehmen – und etwas dage
 >
 >Genau dieses Szenario spielte sich im Sommer 2025 im Wallis ab. Kein Krieg. Keine Klimakatastrophe. Sondern: ganz normale geologische Vorgänge – Erosion, Niederschläge, kleine Erdstöße.
 
-Wer in so einem Moment lieber über „die da oben“, „Umvolkung“ oder „Verschwörung“ diskutiert, wird im Ernstfall schlechte Karten haben.
+Wer angesichts der Evakuierungswarnung der Regierung lieber über „die da oben“, „Umvolkung“ oder „Verschwörung“ diskutiert, wird im Ernstfall schlechte Karten haben.
 
 Was zählt, ist Handlungsfähigkeit: Wertsachen sichern. Familie instruieren. Ausrüstung bereitstellen. Die sichere Zone ist oft nur wenige Kilometer entfernt – mit Wasser, Strom und medizinischer Hilfe. Du bist also nicht gleich in einer Survivalsituation. Aber nur, wenn du vorbereitet bist.
 
@@ -79,5 +79,3 @@ Du kannst nicht auf jede Eventualität vorbereitet sein – und das musst du auc
 Bereite dich auch mental auf die Möglichkeit vor, dass du dein Haus oder deine Wohnung mit der Familie verlassen musst.
 
 Meditation, Atemtechniken oder Visualisierung können helfen, mit Stress umzugehen. Körperliche Fitness ist ebenfalls ein Plus – nicht nur für die Belastung selbst, sondern auch, um im Ernstfall klar und souverän aufzutreten. Das stärkt deinen Charakter, wenn du die Interessen deiner Familie gegenüber Behörden oder Dritten vertreten musst.
-
-Im nächsten Kapitel schauen wir uns an, mit welchen realistischen Szenarien du rechnen solltest – vom Stromausfall bis zur Naturkatastrophe.

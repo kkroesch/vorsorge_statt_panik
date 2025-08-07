@@ -1,4 +1,4 @@
-# Was kann passieren? – Realistische Szenarien
+# Kapitel 2: Was kann passieren? – Realistische Szenarien
 
 ## Einleitung
 
@@ -28,7 +28,7 @@ Eine Pandemie ist nicht laut, nicht dramatisch – sie ist schleichend. Menschen
 
 ### Ein Vorbild: Wissenschaft statt Panik
 
-Inmitten der Pandemie wurde einer zur Vertrauensfigur vieler: Prof. Christian Drosten. Ohne Pathos, ohne Übertreibung – aber mit abgeklärtem Rationalismus, Sachkenntnis und ruhiger Stimme erklärte er einem Millionenpublikum, was Sache ist. Er war kein Heilsbringer, kein Rattenfänger, sondern ein Anker in der Informationsflut – ein Fels in der Brandung.
+Inmitten der Pandemie wurde einer zur Vertrauensfigur vieler: Prof. Christian Drosten. Ohne Pathos, ohne Übertreibung – aber mit abgeklärtem Rationalismus, Sachkenntnis und ruhiger Stimme erklärte er einem Millionenpublikum, was Sache ist. Er war kein Heilsbringer, kein Rattenfänger, sondern ein Anker in der Informationsflut.
 
 Gerade in Krisenzeiten ist es entscheidend, nüchtern zu bleiben und auf verlässliche Quellen zu hören. Wer ruhig analysiert, kann für sich und seine Familie sinnvolle Konsequenzen ziehen – etwa beim Thema Vorratshaltung, Kontaktvermeidung oder Hygiene. Das ist nicht Hörigkeit – das ist Mündigkeit.
 
@@ -42,11 +42,23 @@ Der Bestseller *Blackout* von Marc Elsberg hat eindrucksvoll beschrieben, was pa
 
 Ich selbst verfüge über Solarpaneele mit Batteriespeicher, einen Benzingenerator, Kamin mit Brennholz und ein Wohnmobil als autarke Reserve. Das ist kein Luxus – das ist Vorsorge mit Augenmaß. Auch das Teilen mit Nachbarn ist möglich und sinnvoll: Bauernhöfe verfügen oft über große Notstromaggregate, um ihre Melkanlagen zu betreiben. Keine Sorge: Die Kühe müssen nicht reihenweise sterben.
 
+---
+💡 Einschub: Blackout in Spanien und Portugal 2025
+
+Am 19. Juli 2025 kam es in weiten Teilen Spaniens und Portugals zu einem großflächigen Stromausfall. Ausgelöst wurde dieser durch einen Netzfehler bei der Hochspannungsleitung zwischen Marokko und dem spanischen Festland. Innerhalb weniger Minuten fielen mehrere Regionen vollständig vom Netz, darunter auch Großstädte wie Madrid, Sevilla und Lissabon.
+
+Die Versorgung war in den meisten Gegenden nach etwa 2–6 Stunden wiederhergestellt, aber die Abhängigkeit moderner Infrastrukturen zeigte sich deutlich: Ampeln fielen aus, Züge standen still, Kühlketten in Supermärkten waren unterbrochen. In einigen Regionen war auch das Mobilfunknetz betroffen.
+
+Die Behörden lobten die schnelle Reaktion der Netzbetreiber – aber der Vorfall machte deutlich: Selbst ohne Sabotage oder Extremwetter können rein technische Fehler zu gravierenden Ausfällen führen.
+
+Wer vorbereitet war, konnte den Tag gelassen überbrücken. Wer nicht, musste frieren, schwitzen oder hungern – und das mitten in Europa.
+
+---
+
 Ein Stromausfall ist kein Weltuntergang – aber eine Herausforderung, auf die man sich vorbereiten kann.
 
-## Weitere Szenarien
 
-### Unruhen – selten, aber nicht unmöglich
+## Unruhen – selten, aber nicht unmöglich
 
 In der Schweiz – und generell in den meisten europäischen Ländern – sind großflächige gewaltsame Unruhen derzeit wenig wahrscheinlich. Die gesellschaftliche Stabilität, das wirtschaftliche Niveau und das soziale Sicherheitsnetz sorgen dafür, dass die Hemmschwelle zur Gewalt bei den allermeisten Menschen nicht überschritten wird.
 
@@ -63,7 +75,7 @@ Besser ist es, den eigenen Beitrag zur Stabilität zu leisten:
 
 Deeskalation ist auch eine Form der Vorsorge.
 
-### Versorgungsengpässe – die schleichende Krise
+## Versorgungsengpässe – die schleichende Krise
 
 Versorgungsengpässe entstehen selten plötzlich – oft sind sie das Ergebnis geopolitischer Spannungen, protektionistischer Maßnahmen oder fragiler Lieferketten. Medikamente, Ersatzteile, Grundnahrungsmittel oder Treibstoff können knapp werden – nicht weil es sie nicht mehr gibt, sondern weil sie nicht dorthin gelangen, wo sie gebraucht werden.
 
@@ -72,14 +84,14 @@ Ein Beispiel: Wenn ein übergeschnappter Präsident eines großen Industriestaat
 **Was hilft:**
 
 * Ein solider Grundvorrat, der regelmäßig geprüft wird
-* Diversifizierte Bezugsquellen (z. B. lokale Anbieter, Hofläden, Tauschbörsen)
+* Dezentrale Bezugsquellen (z. B. lokale Anbieter, Hofläden, Tauschbörsen)
 * Technisches Verständnis, um Dinge zu reparieren oder Alternativen zu finden
 
-### Cyberangriffe – unsichtbar, aber mit Wirkung
+## Cyberangriffe – unsichtbar, aber mit Wirkung
 
 Unsere Gesellschaft hängt an Netzwerken wie nie zuvor. Strom, Wasser, Logistik, medizinische Geräte, öffentlicher Verkehr, Kommunikation – alles läuft über Computer, und diese wiederum über Netze. Die Digitalisierung bringt Komfort, aber auch eine massive Abhängigkeit.
 
-Cyberangriffe sind längst keine Fiktion mehr. Sie können gezielt einzelne Systeme stören oder ganze Kaskaden auslösen. Beispiele reichen von lahmgelegten Zügen über den Ausfall von Apotheken bis zu verschlüsselten Krankenhäusern. Vieles davon beruht auf Schwachstellen, die bekannt waren – aber nicht geschlossen wurden.
+Cyberangriffe sind längst keine Fiktion mehr. Sie können gezielt einzelne Systeme stören oder ganze Kaskaden auslösen. Beispiele reichen von lahmgelegten Zügen über den Ausfall von Apotheken bis zu verschlüsselten Patientenakten in Krankenhäusern. Vieles davon beruht auf Schwachstellen, die bekannt waren – aber nicht geschlossen wurden.
 
 **Was hilft:**
 
@@ -88,11 +100,11 @@ Cyberangriffe sind längst keine Fiktion mehr. Sie können gezielt einzelne Syst
 * Lokale Backups, falls Cloud-Dienste nicht erreichbar sind
 * Gelassene Fehlertoleranz im Alltag – und Plan B für den Fall der Fälle
 
-### Naturkatastrophen – plötzlich, aber nicht überraschend
+## Naturkatastrophen – plötzlich, aber nicht überraschend
 
 Erdbeben, Überschwemmungen, Sturzfluten oder Waldbrände gehören in vielen Regionen zur Realität – auch in Mitteleuropa. Sie treten meist ohne lange Vorwarnung auf, sind lokal begrenzt, aber können massiven Schaden anrichten.
 
-Ein tragisches Beispiel war das Ahrtal 2021: Dort versagten Frühwarnsysteme, obwohl die Lage meteorologisch bekannt war. Solche Ereignisse zeigen: **Verlass dich nicht allein auf Technik.**
+Ein tragisches Beispiel war das Ahrtal 2021: Dort versagten Frühwarnsysteme, obwohl die Lage den Hydrologen bekannt war. Solche Ereignisse zeigen: **Verlass dich nicht allein auf Technik.**
 
 **Was hilft:**
 
@@ -101,7 +113,7 @@ Ein tragisches Beispiel war das Ahrtal 2021: Dort versagten Frühwarnsysteme, ob
 * Eine vorbereitete Tasche, falls man kurzfristig evakuieren muss
 * Im Fall von Erdbeben: stabile Möbel sichern, Verhalten trainieren (z. B. „Drop, Cover, Hold“)
 
-### Krieg und Flucht – der denkbar schlimmste Fall
+## Krieg und Flucht – der denkbar schlimmste Fall
 
 Kriege wirken für viele Menschen in Europa wie etwas, das „woanders“ passiert. Doch spätestens seit dem Überfall auf die Ukraine 2022 ist klar: Auch moderne Staaten mit Infrastruktur, Schulen und Einkaufszentren können zum Kriegsgebiet werden.
 
@@ -116,22 +128,20 @@ Wenn zivile Einrichtungen bombardiert werden, bleibt oft nur die Flucht. Wer in 
 
 **Sich dem Widerstand anschließen?** Eine persönliche, schwerwiegende Entscheidung. Ziviler Ungehorsam, Hilfe für Bedürftige oder logistische Unterstützung können wertvoller sein als direkte Konfrontation. Partisanentum ist ein extremes Szenario – und für die meisten keine realistische oder wünschenswerte Option.
 
-### Kernkraftwerk in der Nähe – realistisch, nicht reißerisch
+## Havarie eines Kernkraftwerk
 
-Ich wohne in der Nähe eines Kernkraftwerks – eines Druckwasserreaktors mit Wassermoderation. Anders als in Tschernobyl handelt es sich also nicht um einen Graphitreaktor ohne Containment. Ein Störfall würde nicht „explodieren“, wie es oft in Filmen dargestellt wird.
+Ich wohne in der Nähe eines Kernkraftwerks – eines Druckwasserreaktors mit Wassermoderation. Anders als in Tschernobyl handelt es sich also nicht um einen Graphitreaktor ohne Containment. Im Störfall würde nichts „explodieren“, wie es oft in Filmen dargestellt wird.
 
 Sollte dennoch Radioaktivität freigesetzt werden, heißt die Maßnahme nicht Flucht, sondern **„Shelter-in-place“**: Fenster schließen, Türen abdichten, Lüftung abstellen – und im Haus bleiben, bis die Isotope durch Wind und Zeit verdünnt wurden. Einen Atompilz wird es nicht geben. Aber Vorsorge lohnt sich trotzdem:
 
 * Ein **Geigerzähler** hilft, echte Gefahr von Panik zu unterscheiden.
 * Eine **Schutzmaske mit Partikelfilter** (z. B. P3) kann bei kurzzeitiger Außenluft-Exposition hilfreich sein.
-* **Jodtabletten** werden in der Schweiz regelmäßig als Vorsorge an die Bevölkerung abgegeben. Wichtig: Sie gehören **in den Vorrat**, dürfen aber **nur auf behördliche Anweisung** eingenommen werden!
+* **Jodtabletten** werden in der Schweiz regelmäßig als Vorsorge an die Bevölkerung abgegeben. Wichtig: Sie gehören **in den Vorrat**, dürfen aber **nur auf behördliche Anweisung** eingenommen werden! Sie sättigen den Jodvorrat in der Schilddrüse, so dass keine Iod-Isotope im Körper gespeichert werden.
 
 Ein solcher Störfall ist extrem unwahrscheinlich – aber ein gutes Beispiel dafür, wie *ruhige Vorbereitung* mehr bringt als Dramatisierung.
 
 ## Fazit
 
-Diese Szenarien zeigen, wie unterschiedlich Krisen verlaufen können – laut oder leise, sichtbar oder unsichtbar, plötzlich oder schleichend. Gemeinsam ist ihnen nur eines: Sie treffen immer mehrere Menschen gleichzeitig – und überfordern schnell die üblichen Strukturen.
+Diese Szenarien zeigen, wie unterschiedlich Krisen verlaufen können – laut oder leise, sichtbar oder unsichtbar, plötzlich oder schleichend. Gemeinsam ist ihnen nur eines: Sie treffen immer viele Menschen gleichzeitig – und überfordern schnell die üblichen Strukturen.
 
 Vorsorge ist keine Garantie, aber ein Werkzeug zur Selbstbestimmung. Wer vorbereitet ist, hilft nicht nur sich selbst, sondern entlastet auch andere. Und genau darum geht es in diesem Buch.
-
-Im nächsten Kapitel geht es um das, was du *jetzt* konkret tun kannst – beginnend mit dem berühmtesten Symbol der Krisenvorsorge: dem Fluchtrucksack.
